@@ -1,6 +1,0 @@
-framework module MasterPassKit {
-  umbrella header "MasterPassKit.h"
-  export *
-
-  module * { export * }
-}
